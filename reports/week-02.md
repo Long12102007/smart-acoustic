@@ -1,14 +1,14 @@
-# Báo cáo tuần 2 (31/08 – 06/09/2026)
+# Báo cáo tuần 1 (24/08 – 30/08/2026)
 
 **Đã làm**
-- Cấu hình I2S thu âm ổn định
-- Tích hợp thư viện FFT
+- Chốt yêu cầu, phân công, chuẩn bị môi trường
+- Thiết kế kiến trúc hệ thống và cấu trúc dữ liệu Firebase
+- Tạo project Firebase (Realtime Database)
+- Đấu nối INMP441 với ESP32
 
 **Đang làm**
-- Thuật toán phát hiện tiếng khóc bằng FFT (đến 10/09)
+- Cấu hình I2S thu âm ổn định (đến 03/09)
 
 **Tuần sau**
-- Kết nối WiFi, NTP và đẩy dữ liệu lên Firebase
-- Khởi tạo app Expo + TypeScript
-- Kết nối app với Firebase (Auth + Realtime Database)
-- Xây dựng các màn hình chính của bản demo
+- Tích hợp thư viện FFT
+- Thuật toán phát hiện tiếng khóc bằng FFT
