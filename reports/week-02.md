@@ -1,4 +1,4 @@
-# Báo cáo tuần 1 (24/08 – 30/08/2026)
+# Báo cáo tuần 2 (24/08 – 30/08/2026)
 
 **Đã làm**
 - Chốt yêu cầu, phân công, chuẩn bị môi trường
