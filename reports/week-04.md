@@ -1,4 +1,4 @@
-# Báo cáo tuần 3 (07/09 – 13/09/2026)
+# Báo cáo tuần 4 (07/09 – 13/09/2026)
 
 **Đã làm**
 - Thuật toán phát hiện tiếng khóc bằng FFT
